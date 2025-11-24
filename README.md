@@ -72,13 +72,6 @@ ML-Shiny-App/
 Master’s student, University of Texas at Dallas
 
 
-## 🔖 License
-
-Specify your license here (e.g., MIT License) or delete this section if proprietary.
-
-```
-
----
 
 If you like, I can tailor the README even further — for example adding badge links (CI build, CRAN version, license), example screenshots of the UI, or a “How it works” section that walks through the code logic (data workflow, reactive elements, etc.). Would you like me to do that?
 ::contentReference[oaicite:1]{index=1}
